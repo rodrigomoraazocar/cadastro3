@@ -26,6 +26,4 @@ class Usuario {
     private String nome;
     private Integer numero;
     private String endereco;
-
-
-}
+    }
